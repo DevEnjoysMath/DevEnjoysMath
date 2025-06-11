@@ -20,8 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
   &nbsp;
   <img src="https://github.com/DevEnjoysMath/DevEnjoysMath/blob/main/gemini.png?raw=true" 
-     alt="Gemini" width="80" height="80" 
-     style="position: relative; top: 10px;" />
+     alt="Gemini" width="100" height="100" 
+     style="position: relative; top: 2px;" />
 </p>
 
 ---
