@@ -25,7 +25,7 @@
 ## 🏫 Education
 
 <p align="center">
-  <img src="https://github.com/DevEnjoysMath/DevEnjoysMath/blob/main/tcdlogo.jpg?raw=true" alt="Trinity College Dublin" width="140"
+  <img src="https://github.com/DevEnjoysMath/DevEnjoysMath/blob/main/tcdlogo.jpg?raw=true" alt="Trinity College Dublin" width="240"
   height="140"/>
 </p>
 
