@@ -25,7 +25,14 @@
 ## 🏫 Education
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Ftrinity-college-dublin-logo-vector-svg-pdf-ai-eps-cdr-free-download-15382.html&psig=AOvVaw3FxpCVS4TLty0OtVRH6Ywz&ust=1749741196917000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKi39YXU6Y0DFQAAAAAdAAAAABAM" alt="Trinity College Dublin" width="100"/>
+  <img src="## 🏫 Education
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/tcd-logo.png" alt="Trinity College Dublin" width="100"/>
+</p>
+
+<p align="center"><strong>Trinity College Dublin</strong><br>B.Sc. in Computer Science</p>
+" alt="Trinity College Dublin" width="100"/>
 </p>
 
 <p align="center"><strong>Trinity College Dublin</strong><br>B.Sc. in Computer Science</p>
