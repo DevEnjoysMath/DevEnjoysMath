@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Dev
 
 🎓 **Computer Science student at Trinity College Dublin**  
-💡 Passionate about startups and solving real-world problems with AI  
+💡 Passionate about solving real-world problems with AI  
 🌐 I believe in creating value, not just writing code.
 
 ---
@@ -25,7 +25,7 @@
 ## 🏫 Education
 
 <p align="center">
-  <img src="https://github.com/DevEnjoysMath/DevEnjoysMath/blob/main/tcdlogo.jpg?raw=true" alt="Trinity College Dublin" width="240"
+  <img src="https://github.com/DevEnjoysMath/DevEnjoysMath/blob/main/tcdlogo.jpg?raw=true" alt="Trinity College Dublin" width="300"
   />
 </p>
 
