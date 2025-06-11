@@ -18,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Google_Gemini_logo.svg" alt="Gemini AI" width="60" height="60"/>
 </p>
 
 ---
