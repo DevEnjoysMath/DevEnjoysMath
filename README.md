@@ -1,35 +1,50 @@
 # 👋 Hi there, I'm Dev
 
-🎓 Computer Science student at **Trinity College Dublin**  
-💡 Passionate about solving real-world problems with AI  
+🎓 **Computer Science student at Trinity College Dublin**  
+💡 Passionate about startups and solving real-world problems with AI  
+🌐 I believe in creating value, not just writing code.
 
 ---
 
-## 🛠️ Languages & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+</p>
 
 ---
 
 ## 🏫 Education
-<img src="https://upload.wikimedia.org/wikipedia/en/b/bf/Trinity_College_Dublin_coat_of_arms.png" width="80" alt="Trinity Logo"/>  
-**Trinity College Dublin**  
-B.A in Computer Science
+
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Ftrinity-college-dublin-logo-vector-svg-pdf-ai-eps-cdr-free-download-15382.html&psig=AOvVaw3FxpCVS4TLty0OtVRH6Ywz&ust=1749741196917000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKi39YXU6Y0DFQAAAAAdAAAAABAM" alt="Trinity College Dublin" width="100"/>
+</p>
+
+<p align="center"><strong>Trinity College Dublin</strong><br>B.Sc. in Computer Science</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Devs's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevEnjoysMath&show_icons=true&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevEnjoysMath&show_icons=true&theme=radical" />
+</p>
 
 ---
 
 ## 📫 Let's Connect
+
 - [LinkedIn](https://www.linkedin.com/in/dev-joshi-083730273)
-- Email: devdeepak157@gmail.com
+- 📧 Email: devdeepak157@gmail.com
 
 ---
 
-_“Code is a tool. Business is the engine. Vision is the fuel.”_
+<p align="center"><em>“Code is a tool. Business is the engine. Vision is the fuel.”</em></p>
