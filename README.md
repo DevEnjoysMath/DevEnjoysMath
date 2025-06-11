@@ -19,7 +19,7 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
   &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Google_Gemini_logo.svg/256px-Google_Gemini_logo.svg.png" alt="Gemini AI" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/mishushakov/gemini-assets/main/gemini-logo.png" alt="Gemini AI" width="60" height="60"/>
 </p>
 
 ---
