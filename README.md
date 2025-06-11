@@ -19,7 +19,7 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
   &nbsp;
-  <img src="https://github.com/DevEnjoysMath/DevEnjoysMath/blob/main/gemini.png?raw=true" 
+  <img src="https://github.com/DevEnjoysMath/DevEnjoysMath/blob/main/gemini.jpg?raw=true" 
      alt="Gemini" width="60" height="60" 
      style="vertical-align: middle; margin-top: 10px;" />
 </p>
