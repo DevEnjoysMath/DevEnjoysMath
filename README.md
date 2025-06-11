@@ -19,7 +19,7 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
   &nbsp;
-  <img src="[https://raw.githubusercontent.com/mishushakov/gemini-assets/main/gemini-logo.png" alt="Gemini AI](https://brandlogos.net/wp-content/uploads/2024/04/gemini-logo_brandlogos.net_fwajr-512x512.png)" width="60" height="60"/>
+  <img src="[[https://raw.githubusercontent.com/mishushakov/gemini-assets/main/gemini-logo.png" alt="Gemini AI](https://brandlogos.net/wp-content/uploads/2024/04/gemini-logo_brandlogos.net_fwajr-512x512.png)](https://github.com/DevEnjoysMath/DevEnjoysMath/blob/main/gemini.png?raw=true)" width="60" height="60"/>
 </p>
 
 ---
