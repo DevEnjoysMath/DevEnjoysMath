@@ -21,7 +21,7 @@
   &nbsp;
   <img src="https://github.com/DevEnjoysMath/DevEnjoysMath/blob/main/gemini.png?raw=true" 
      alt="Gemini" width="100" height="100" 
-     style="position: relative;" />
+     style="margin-top: 10px;" />
 </p>
 
 ---
