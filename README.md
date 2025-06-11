@@ -28,7 +28,7 @@
   <img src="## 🏫 Education
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/tcd-logo.png" alt="Trinity College Dublin" width="100"/>
+  <img src="https://github.com/DevEnjoysMath/DevEnjoysMath/blob/main/tcdlogo.jpg?raw=true" alt="Trinity College Dublin" width="100"/>
 </p>
 
 <p align="center"><strong>Trinity College Dublin</strong><br>B.Sc. in Computer Science</p>
