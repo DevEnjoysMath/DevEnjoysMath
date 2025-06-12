@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Dev
 
-🎓 **Computer Science student at Trinity College Dublin**  
+🎓 **Computer Science student @ Trinity College Dublin**  
 💡 Passionate about solving real-world problems with AI  
 🌐 I believe in creating value, not just writing code.
 
