@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Dev
+# Hi, I'm Dev
 
 🎓 **Computer Science student @ Trinity College Dublin**  
 💡 Passionate about solving real-world problems with AI  
