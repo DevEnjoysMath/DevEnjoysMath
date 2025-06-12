@@ -31,7 +31,7 @@
   />
 </p>
 
-<p align="center"><strong>Trinity College Dublin</strong><br>B.Sc. in Computer Science</p>
+<p align="center"><strong>Trinity College Dublin</strong><br>B.A in Computer Science</p>
 
 ---
 
