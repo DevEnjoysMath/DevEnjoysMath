@@ -1,4 +1,4 @@
-# Hi, I'm Dev
+<h1 align="center">Hi, I'm Dev 👋</h1>
 
 🎓 **Computer Science student @ Trinity College Dublin**  
 💡 Passionate about solving real-world problems with AI  
