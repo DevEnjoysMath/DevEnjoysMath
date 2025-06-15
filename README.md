@@ -6,7 +6,7 @@
 
 ---
 
-### About Me
+### 🚀 About Me
 
 - I’m passionate about building real-world solutions with AI & full-stack tech
 - I love solving problems where business + code intersect
@@ -14,7 +14,7 @@
 
 ---
 
-### Key Strengths
+### 🧠 Key Strengths
 
 - End-to-end project builder (Ideation → Backend → Frontend → Deploy)
 - Creative problem solver — love working under constraints
