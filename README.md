@@ -57,14 +57,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/DevEnjoysMath/DevEnjoysMath/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ### 🏫 Education
 
 <p align="center">
@@ -75,6 +67,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/DevEnjoysMath/DevEnjoysMath/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
+
+---
 ### 📫 Let’s Connect
 
 <p align="center">
