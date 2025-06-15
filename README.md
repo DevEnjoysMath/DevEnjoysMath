@@ -1,16 +1,23 @@
-<h1 align="center">Hi, I'm Dev</h1>
+<h1 align="center">Hi, I'm Dev 👋</h1>
 
 <p align="center">
-  🎓 Computer Science student @ <strong>Trinity College Dublin</strong><br>
-  💡 Solving real-world problems with AI<br>
-  🌐 Creating value, not just writing code
+  🎓 CS Student @ Trinity College Dublin
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevEnjoysMath&color=blueviolet&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/DevEnjoysMath?style=flat-square&label=Followers" />
-  <img src="https://img.shields.io/github/stars/DevEnjoysMath?style=flat-square&label=Stars" />
-</p>
+---
+
+### About Me
+
+- I’m passionate about building real-world solutions with AI & full-stack tech
+- I love solving problems where business + code intersect
+- Currently working on: AI Virtual Assistants for Local Businesses
+
+---
+
+### Key Strengths
+
+- End-to-end project builder (Ideation → Backend → Frontend → Deploy)
+- Creative problem solver — love working under constraints
 
 ---
 
