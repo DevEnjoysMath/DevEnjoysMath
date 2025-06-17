@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dev 👋</h1>
+<h1 align="center">Hi, I'm Dev </h1>
 
 <p align="center">
   🎓 CS Student @ Trinity College Dublin
