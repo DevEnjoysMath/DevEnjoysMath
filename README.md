@@ -1,6 +1,11 @@
 <h1 align="center">Hi, I'm Dev </h1>
 
 <p align="center">
+  <img src="https://github.com/DevEnjoysMath/DevEnjoysMath/blob/main/coding.gif?raw=true" width="300" alt="Coder Cat GIF" />
+</p>
+
+
+<p align="center">
   🎓 CS Student @ Trinity College Dublin
 </p>
 
