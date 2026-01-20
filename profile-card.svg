@@ -116,7 +116,7 @@ text, tspan {white-space: pre;}
 
 <!-- Info Panel -->
 <text x="390" y="50" fill="#c9d1d9">
-<tspan x="390" y="50" class="line1"><tspan class="accent">dev</tspan><tspan fill="#8b949e">@</tspan><tspan class="header">trinityCollegeDublin</tspan><tspan class="cursor">_</tspan></tspan>
+<tspan x="390" y="50" class="line1"><tspan class="accent">dev</tspan><tspan fill="#8b949e">@</tspan><tspan class="header">trinity</tspan><tspan class="cursor">_</tspan></tspan>
 <tspan x="390" y="70" fill="#8b949e" class="line2">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</tspan>
 <tspan x="390" y="95" class="line3"><tspan class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">: .......................... </tspan><tspan class="value">macOS</tspan></tspan>
 <tspan x="390" y="115" class="line4"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc">: ........................ </tspan><tspan class="value">2nd Year CS @ Trinity</tspan></tspan>
