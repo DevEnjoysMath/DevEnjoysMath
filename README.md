@@ -29,7 +29,7 @@ drwxr-xr-x  whatsapp-assistant/       # Salon booking automation
 <br/>
 
 ```
-$ history | grep "currently working on"
+$ present | grep "currently working on"
 ```
 
 ```
