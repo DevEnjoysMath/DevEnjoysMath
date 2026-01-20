@@ -8,35 +8,34 @@
 $ cat ~/about.txt
 ```
 
-I don't just write code—I architect solutions. From async task queues that cut signup friction by 60% to AI systems that help tenants fight unfair landlords, I build software that solves real problems for real people.
+I'm a second year computer science student at Trinity College Dublin with a strong interest in software engineering, cloud technologies, and AI/ML. I'm working on building practical skills in Python, Linux, Kubernetes and AWS to develop scalable solutions.
 
-Currently deep in distributed systems, container orchestration, and the dark arts of making infrastructure invisible.
-
-<br/>
-
-```
-$ ls -la ~/shipped/
-```
-
-```
-drwxr-xr-x  hestia/            # AI-powered tenant advocacy for Irish renters
-drwxr-xr-x  meeting-assistant/ # Real-time transcription + insights (1st @ Claude Hackathon)
-drwxr-xr-x  gaffmap/           # Housing affordability analysis (Spring Boot)
-drwxr-xr-x  whatsapp-bot/      # Salon booking automation (+20% monthly bookings)
--rw-r--r--  arrowglue.log      # Django, PostgreSQL, AWS S3, Celery
-```
+I enjoy collaborating with others and believe teamwork drives innovation. Whether leading a group project or contributing as a team member, I prioritise clear communication and reliability.
 
 <br/>
 
 ```
-$ history | grep "proud of"
+$ ls -la ~/projects/
 ```
 
 ```
-  142  Built async file upload system → 60% improvement in signup completion
-  287  Won 1st place at Claude Code Hackathon with 48-hour build
-  391  Represent 130+ CS students as Class Rep @ Trinity
-  445  Mentor 13 first-year students through their CS journey
+drwxr-xr-x  symptom-assessment-tool/  # Built during the Google Student AI Hackathon 2025
+drwxr-xr-x  meeting-assistant/        # Developed during the Claude Code Hackathon 2025
+drwxr-xr-x  WhereCanIAfford/          # Personal Project
+drwxr-xr-x  whatsapp-assistant/       # Salon booking automation
+-rw-r--r--  arrowglue.log             # Python, PostgreSQL, AWS S3, HTML, CSS
+```
+
+<br/>
+
+```
+$ history | grep "currently working on"
+```
+
+```
+  142 Automated Rota System for Centra Cabinteely 
+  287 Toast - Multi-Region Cloud Restaurant ordering system (SWEng Project)
+  391 Learning Docker and Kubernetes 
 ```
 
 <br/>
