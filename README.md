@@ -42,7 +42,6 @@ $ history | grep "currently working on"
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevEnjoysMath&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DevEnjoysMath&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9" height="165"/>
 </p>
 
 <br/>
