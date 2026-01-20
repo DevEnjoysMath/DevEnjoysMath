@@ -47,12 +47,11 @@ $ present | grep "currently working on"
 <br/>
 
 ```
-$ cat /etc/philosophy
+$ echo "why I code"
 ```
 
 ```
-> "Make it work, make it right, make it fast." — Kent Beck
-> I ship first, optimize second, and always leave code better than I found it.
+> Because I like building things people actually rely on.
 ```
 
 <br/>
@@ -67,16 +66,16 @@ $ cat /etc/philosophy
 $ echo $CONTACT
 ```
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dev-joshi-083730273"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff"/></a>
-  <a href="mailto:devdeepak157@gmail.com"><img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff"/></a>
-</p>
+<div align="center">
+  <a href="mailto:devdeepak157@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<br/>
+  <a href="https://www.linkedin.com/in/dev-joshi-083730273" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevEnjoysMath&style=for-the-badge&color=0d1117&label=visitors"/>
-</p>
 
 <!---
 DevEnjoysMath/DevEnjoysMath is a special repository: its README.md appears on your GitHub profile.
