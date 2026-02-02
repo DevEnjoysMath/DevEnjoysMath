@@ -33,7 +33,6 @@ $ present | grep "currently working on"
 ```
 
 ```
-  142 Automated Rota System for Centra Cabinteely 
   287 Toast - Multi-Region Cloud Restaurant ordering system (SWEng Project)
   391 Learning Docker and Kubernetes 
 ```
