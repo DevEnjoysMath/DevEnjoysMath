@@ -37,13 +37,6 @@ $ present | grep "currently working on"
   391 Learning Docker and Kubernetes 
 ```
 
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevEnjoysMath&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff" height="165"/>
-</p>
-
-<br/>
 
 ```
 $ echo "why I code"
