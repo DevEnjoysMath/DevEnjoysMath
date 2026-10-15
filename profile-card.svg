@@ -112,7 +112,7 @@ text, tspan {white-space: pre;}
 <tspan x="490" y="95" class="line3"><tspan class="cc">  </tspan><tspan class="key">OS</tspan><tspan class="cc"> ................... </tspan><tspan class="value">macOS</tspan></tspan>
 <tspan x="490" y="115" class="line4"><tspan class="cc">  </tspan><tspan class="key">Uptime</tspan><tspan class="cc"> ............. </tspan><tspan class="value">2nd Year CS @ Trinity</tspan></tspan>
 <tspan x="490" y="135" class="line5"><tspan class="cc">  </tspan><tspan class="key">Host</tspan><tspan class="cc"> ............... </tspan><tspan class="value">Ex-SWE Intern @ ArrowGlue</tspan></tspan>
-<tspan x="490" y="155" class="line6"><tspan class="cc">  </tspan><tspan class="key">Role</tspan><tspan class="cc"> ............... </tspan><tspan class="value">Class Rep, CoderDojo Mentor</tspan></tspan>
+<tspan x="490" y="155" class="line6"><tspan class="cc">  </tspan><tspan class="key">Role</tspan><tspan class="cc"> ............... </tspan><tspan class="value">Class Rep, Algorithms & Data Structures Demonstratorr</tspan></tspan>
 <tspan x="490" y="175" class="line7"><tspan class="cc">  </tspan><tspan class="key">Editor</tspan><tspan class="cc"> ............. </tspan><tspan class="value">VSCode, Claude Code, Cursor</tspan></tspan>
 <tspan x="490" y="200" class="cc line8">  </tspan>
 <tspan x="490" y="220" class="line9"><tspan class="cc">  </tspan><tspan class="key">Languages.Code</tspan><tspan class="cc"> ..... </tspan><tspan class="value">Python, Java, JavaScript</tspan></tspan>
@@ -125,8 +125,8 @@ text, tspan {white-space: pre;}
 <tspan x="490" y="375" class="line16"><tspan class="cc">  </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc"> ........... </tspan><tspan class="value">dev-joshi-083730273</tspan></tspan>
 <tspan x="490" y="400" fill="#8b949e" class="line17">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</tspan>
 <tspan x="490" y="425" class="line18"><tspan class="cc">  </tspan><tspan class="key">Symptom Assessment</tspan><tspan class="cc"> . </tspan><tspan class="value">Google AI Hackathon</tspan></tspan>
+<tspan x="490" y="465" class="line20"><tspan class="cc">  </tspan><tspan class="key">Multi Region Cloud App</tspan><tspan class="cc"> .... </tspan><tspan class="value">Industry Partner: Toast</tspan></tspan>
 <tspan x="490" y="445" class="line19"><tspan class="cc">  </tspan><tspan class="key">Meeting Assistant</tspan><tspan class="cc"> .. </tspan><tspan class="value">Claude Code Hackathon</tspan></tspan>
-<tspan x="490" y="465" class="line20"><tspan class="cc">  </tspan><tspan class="key">WhereCanIAfford</tspan><tspan class="cc"> .... </tspan><tspan class="value">Irish Housing Tool</tspan></tspan>
 <tspan x="490" y="485" class="line20"><tspan class="cc">  </tspan><tspan class="key">WhatsApp Bot</tspan><tspan class="cc"> ....... </tspan><tspan class="value">Salon Booking +20%</tspan></tspan>
 </text>
 
