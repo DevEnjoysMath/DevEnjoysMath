@@ -8,7 +8,7 @@
 $ cat ~/about.txt
 ```
 
-I'm a second year computer science student at Trinity College Dublin with a strong interest in software engineering, cloud technologies, and AI/ML. I'm working on building practical skills in Python, Linux, Kubernetes and AWS to develop scalable solutions.
+I'm a third year computer science student at Trinity College Dublin with a strong interest in software engineering, cloud technologies, and AI/ML. I'm working on building practical skills in Python, Linux, Kubernetes and AWS to develop scalable solutions.
 
 I enjoy collaborating with others and believe teamwork drives innovation. Whether leading a group project or contributing as a team member, I prioritise clear communication and reliability.
 
@@ -19,9 +19,10 @@ $ ls -la ~/projects/
 ```
 
 ```
+drwxr-xr-x  multi-region-cloud-app/   # Built as part of the Trinity Software Engineering module
+drwxr-xr-x  finderr/                  # Developed during the Google Student AI Hackathon 2026 
 drwxr-xr-x  symptom-assessment-tool/  # Built during the Google Student AI Hackathon 2025
 drwxr-xr-x  meeting-assistant/        # Developed during the Claude Code Hackathon 2025
-drwxr-xr-x  WhereCanIAfford/          # Personal Project
 drwxr-xr-x  whatsapp-assistant/       # Salon booking automation
 -rw-r--r--  arrowglue.log             # Python, PostgreSQL, AWS S3, HTML, CSS
 ```
@@ -30,10 +31,11 @@ drwxr-xr-x  whatsapp-assistant/       # Salon booking automation
 
 ```
 $ present | grep "currently working on"
+
 ```
 
 ```
-  287 Toast - Multi-Region Cloud Restaurant ordering system (SWEng Project)
+  287 Finishing Neetcode 250 roadmap
   391 Learning Docker and Kubernetes 
 ```
 
