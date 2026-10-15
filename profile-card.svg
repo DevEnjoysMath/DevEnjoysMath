@@ -127,6 +127,6 @@ text, tspan {white-space: pre;}
 <tspan x="490" y="425" class="line18"><tspan class="cc">  </tspan><tspan class="key">Symptom Assessment</tspan><tspan class="cc"> . </tspan><tspan class="value">Google AI Hackathon</tspan></tspan>
 <tspan x="490" y="445" class="line19"><tspan class="cc">  </tspan><tspan class="key">Meeting Assistant</tspan><tspan class="cc"> .. </tspan><tspan class="value">Claude Code Hackathon</tspan></tspan>
 <tspan x="490" y="465" class="line20"><tspan class="cc">  </tspan><tspan class="key">WhereCanIAfford</tspan><tspan class="cc"> .... </tspan><tspan class="value">Irish Housing Tool</tspan></tspan>
-<tspan x="490" y="485" class="line20"><tspan class="cc">  </tspan><tspan class="key">Multi-region Cloud App</tspan><tspan class="cc"> .... </tspan><tspan class="value">Trinity SWEng module</tspan></tspan>
+<tspan x="490" y="485" class="line20"><tspan class="cc">  </tspan><tspan class="key">MultiRegionCloudApp</tspan><tspan class="cc"> .... </tspan><tspan class="value">Trinity SWEng module</tspan></tspan>
 </text>
 </svg>
